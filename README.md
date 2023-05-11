@@ -1,1 +1,1 @@
-New App! Nothing to see here...yet.
+This is a React Application that allows you to add animals to the screen in a neat grid! You can also favorite each animal individually and a heart will appear that grows depending on how much you 'like' the animal! This application makes use of the useState hook in React by keeping up with and updating the array of animals as well as heart size.
